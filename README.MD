@@ -19,6 +19,12 @@
 
 ### What are cryptocurrencies
 
+A cryptocurrency is a digital or virtual currency that is secured by cryptography, which makes it nearly impossible to counterfeit or double-spend.
+
+Cryptocurrency utilises cryptography — the method of disguising and revealing information — to ensure the security of user information and transactions are done safely. A blockchain is a form of Distributed Ledger Technology (DLT), which is essentially a database spread over multiple operators (nodes, computing devices, etc.)
+
+This is the technology that powers an entire cryptocurrency. It’s essentially a digital ledger that verifies accounts, balances, and transactions.
+
 ### Why are cryptocurrencies so volatile
 
 News developments and speculation are responsible for fueling price swings in crypto and mainstream markets alike. But their effect is exaggerated in crypto markets as they have less liquidity than traditional financial markets — a result of crypto markets lacking a robust ecosystem of institutional investors and large trading firms.
@@ -83,7 +89,10 @@ The files in this study cover the following open source packages:
 
 ## Further reading on cryptocurrencies
 
-[Bitcoin White Paper](https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf) - A great read on cryptocurrency fundamentals
-[Bitcoin Technicals](https://www.goodreads.com/book/show/35432045-mastering-bitcoin?from_search=true&from_srp=true&qid=3vyaW2z3E9&rank=1) - A great book on the technical foundations of bitcoin
-[Coin Telegraph](https://cointelegraph.com/) - A good crypto news site
-[Rust in Cryptocurrency](https://elib.uni-stuttgart.de/bitstream/11682/9311/1/thesis.pdf) - White paper on Rust applications
+[Bitcoin White Paper](https://www.ussc.gov/sites/default/files/pdf/training/annual-national-training-seminar/2018/Emerging_Tech_Bitcoin_Crypto.pdf) - A great read on cryptocurrency fundamentals  
+[Bitcoin Technicals](https://www.goodreads.com/book/show/35432045-mastering-bitcoin?from_search=true&from_srp=true&qid=3vyaW2z3E9&rank=1) - A great book on the technical foundations of bitcoin  
+[Coin Telegraph](https://cointelegraph.com/) - A good crypto news site  
+[Rust in Cryptocurrency](https://elib.uni-stuttgart.de/bitstream/11682/9311/1/thesis.pdf) - White paper on Rust applications  
+[Ethereum Foundation](https://ethereum.org/en/foundation/) - More information on Ethereum
+[Crypto White Papers](https://www.allcryptowhitepapers.com/) - The largest cryptocurrency Whitepaper Database!
+[Cryptographic mathematics](https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=osu1428944810&disposition=inline) - A look into what crpytographic mathematics involves
