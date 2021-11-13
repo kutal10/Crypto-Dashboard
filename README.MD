@@ -93,6 +93,6 @@ The files in this study cover the following open source packages:
 [Bitcoin Technicals](https://www.goodreads.com/book/show/35432045-mastering-bitcoin?from_search=true&from_srp=true&qid=3vyaW2z3E9&rank=1) - A great book on the technical foundations of bitcoin  
 [Coin Telegraph](https://cointelegraph.com/) - A good crypto news site  
 [Rust in Cryptocurrency](https://elib.uni-stuttgart.de/bitstream/11682/9311/1/thesis.pdf) - White paper on Rust applications  
-[Ethereum Foundation](https://ethereum.org/en/foundation/) - More information on Ethereum
-[Crypto White Papers](https://www.allcryptowhitepapers.com/) - The largest cryptocurrency Whitepaper Database!
+[Ethereum Foundation](https://ethereum.org/en/foundation/) - More information on Ethereum  
+[Crypto White Papers](https://www.allcryptowhitepapers.com/) - The largest cryptocurrency Whitepaper Database!  
 [Cryptographic mathematics](https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=osu1428944810&disposition=inline) - A look into what crpytographic mathematics involves
